@@ -1,12 +1,12 @@
 {
-    "name": "devtical/filament-sanctum",
+    "name": "filamerce/filament-sanctum",
     "description": "Filament Sanctum",
     "keywords": [
         "Devtical",
         "sanctum",
         "laravel"
     ],
-    "homepage": "https://github.com/devtical/filament-sanctum",
+    "homepage": "https://github.com/filamerce/filament-sanctum",
     "license": "MIT",
     "authors": [
         {

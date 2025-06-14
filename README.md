@@ -10,7 +10,7 @@
 You can install the package via composer:
 
 ```bash
-composer require devtical/filament-sanctum
+composer require filamerce/filament-sanctum
 ```
 
 Config: 
@@ -68,7 +68,7 @@ If you discover any security related issues, please email `w.kristories@gmail.co
 ## Credits
 
 - [Wahyu Kristianto](https://github.com/kristories)
-- [All Contributors](https://github.com/devtical/sanctum/graphs/contributors)
+- [All Contributors](https://github.com/filamerce/filament-sanctum/graphs/contributors)
 
 ## License
 
